@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""a number module for funnction 'floor'"""
+"""floors a number module"""
 import math
 
 
 def floor(n: float) -> int:
-    """a number function 'floor'"""
-    return math.floor(n))
+    """floors a number function"""
+    return math.floor(n)
