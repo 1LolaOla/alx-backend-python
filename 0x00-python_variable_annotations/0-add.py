@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Annotatiom module as a float"""
+"""Addition annotation module"""
+
 
 def add(a: float, b: float) -> float:
-    """Returns the sum of two floats"""
+    """adds two functions"""
     return a + b
-
